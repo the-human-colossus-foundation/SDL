@@ -1,0 +1,22 @@
+Annex 1
+Additional terms and conditions for Commercial use
+
+This Annex to the SDL details the commercial licence of the products delivered by <NAME OF THE ENTITY> as the Licensor
+
+
+A. <SCOPE>
+<DESCRIPTION of the SCOPE>
+
+This annex supersedes the following articles of the SDL
+
+`Scope of the commercial rights granted by the Licence`
+
+Against the payment of a Royalty, the Licensor hereby grants You a non-exclusive, sublicensable licence to do, in the <Location>, the same activities as described in article 2 of the SDL
+
+Obligation of the Licensee
+The commercial licence is subject to the same restrictions and obligations imposed on the Licensee with the addition of:
+    • The Licensee provides the Licensor a right to be informed or provide independent audit proof that the Licensee has met all its obligations under this SDL 
+This annex defines the Royalties to be paid by the Licensee to the Licensor for the commercial use of the product.
+
+Annual Deployment Licence Fees
+    • <specify fees>
