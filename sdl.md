@@ -53,7 +53,7 @@ The Licensor hereby grants You a worldwide, non-exclusive, sublicensable licence
 
 Those rights can be exercised on any media, supports and formats, whether now known or later invented, as far as the applicable law permits so.
 
-To use the Work for Commercial use, the Licensee must pay Royalty to the Licensor, its affiliated entities, or authorized resellers; or must refrain from using, distribute, lend and rent or sublicense rights of the Work for Commercial use. In such case, Annex 1 shall apply.
+To use the Work for Commercial use, the Licensee must pay Royalty to the Licensor, its affiliated entities, or authorized resellers; or must refrain from using, distribute, lend and rent or sublicense rights of the Work for Commercial use. In such case, Appendix 1 shall apply.
 
 In the countries where moral rights apply, the Licensor waives his right to exercise his moral right to the extent allowed by law in order to make effective the licence of the economic rights here above listed.
 
