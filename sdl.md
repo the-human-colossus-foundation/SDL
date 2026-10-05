@@ -1,5 +1,5 @@
 # Sustainable Development Licence
-Version 1.0
+Version 1.1
 
 
 This Sustainable Development Licence ( ‘SDL’) applies to the Work (as defined below) which is provided under the terms of this licence. Any use of the Work, other than as authorised under this licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work).
@@ -11,9 +11,9 @@ or \
 The licensee has expressed by any other means his willingness to be granted the licence under the SDL.
 
 ## 1. Definitions
-   
+
 In this Licence, the following terms have the following meaning:
-  
+
 - ‘The Licence’: this SDL terms and conditions.
 
 - ‘The Original Work’: the work or software distributed or communicated by the Licensor under this Licence, available as Source Code and also as Executable Code as the case may be.
@@ -65,7 +65,7 @@ The Licensor may provide the Work either in its Source Code form, or as Executab
 ## 4. Limitations on copyright
 Nothing in this Licence is intended to deprive the Licensee of the benefits resulting from
 - the exceptions or limitations to the exclusive rights of the rights owners in the Work,
-- the exhaustion of those rights or 
+- the exhaustion of those rights or
 - other applicable limitations thereto.
 
 ## 5. Obligations of the Licensee
@@ -133,3 +133,35 @@ Without prejudice to specific agreement between parties,
 This Licence and any licence granted under this licence shall be governed by the law of the of the registered seat or habitual residence of the Licensor.
 
 -In the event where the Licensor has no registered seat or habitual residence in Switzerland or in one of the European Union Member State, this licence shall be governed by Swiss law.
+
+## Article 16 – Insolvency, Dissolution, and Successors
+
+Notwithstanding any other provision of this Licence, including but not limited
+to Article 2 (Scope of rights), upon the occurrence of any of the following
+events (each, a "Triggering Event") in relation to the Licensor:
+
+- the filing of a petition for bankruptcy, insolvency, or receivership, whether voluntary or involuntary, that is not dismissed within sixty (60) days;
+- the institution of proceedings for liquidation, dissolution, or winding-up;
+- the cessation of its business operations; or
+- the appointment of a receiver, administrator, or trustee over its assets;
+
+then, effective immediately upon such Triggering Event:
+
+A. Royalty Obligation Permanently Ceases: The obligation to pay Royalties for
+Commercial use of the Work, as set forth in Article 2, shall be permanently and
+irrevocably waived. No Royalties shall be due to the Licensor, its bankruptcy
+estate, its affiliates, its successors in interest, its assigns, or any
+third-party trustee or administrator, for any Commercial use of the Work
+occurring on or after the date of the Triggering Event.
+
+B. Automatic Royalty-Free Commercial License: The Licensee and all downstream
+recipients of the Work are hereby automatically granted a perpetual,
+irrevocable, worldwide, non-exclusive, royalty-free license to use, reproduce,
+modify, distribute, and sublicense the Work for Commercial use, subject to all
+other terms and conditions of this Licence (including, without limitation, the
+Copyleft, Attribution, and Source Code provision obligations under Article 5).
+
+C. Survival of Other Terms: For the avoidance of doubt, this Article does not
+terminate the Licence. All other provisions, including the disclaimer of
+warranties (Article 7) and limitation of liability (Article 8), shall remain in
+full force and effect.
