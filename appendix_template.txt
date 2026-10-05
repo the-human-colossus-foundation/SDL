@@ -1,7 +1,7 @@
 Appendix 1
 Additional terms and conditions for Commercial use
 
-This Appendix to the SDL details the commercial licence of the products delivered by <NAME OF THE ENTITY> as the Licensor
+This Appendix to the SDL (Version 1.2) details the commercial licence of the products delivered by <NAME OF THE ENTITY> as the Licensor
 
 
 A. <SCOPE>
@@ -15,8 +15,32 @@ Against the payment of a Royalty, the Licensor hereby grants You a non-exclusive
 
 Obligation of the Licensee
 The commercial licence is subject to the same restrictions and obligations imposed on the Licensee with the addition of:
-    • The Licensee provides the Licensor a right to be informed or provide independent audit proof that the Licensee has met all its obligations under this SDL 
-This annex defines the Royalties to be paid by the Licensee to the Licensor for the commercial use of the product.
+    • The Licensee provides the Licensor a right to be informed or provide independent audit proof that the Licensee has met all its obligations under this SDL, in accordance with Article 2b.4 of the SDL
+
+B. Threshold (Article 1 of the SDL)
+Use of the Work is Commercial use where, in a Licence Year, the Licensee and its Affiliates exceed any of the following limits:
+    • Aggregate annual gross revenue: <AMOUNT AND CURRENCY>
+    • Number of production deployments of the Work: <NUMBER, or "not applicable">
+    • Number of end-users served with the Work: <NUMBER, or "not applicable">
+    • <OTHER OBJECTIVE METRIC, if any>
+
+C. Royalties
+This annex defines the Royalties to be paid by the Licensee to the Licensor for the Commercial use of the product. Royalties are applied on uniform and non-discriminatory terms to all Licensees in a comparable situation (Article 2c.1 of the SDL).
 
 Annual Deployment Licence Fees
-    • <specify fees>
+    • Tier 1 (<RANGE, e.g. revenue from Threshold up to AMOUNT>): <FEE per year, or PERCENTAGE of revenue attributable to the Work>
+    • Tier 2 (<RANGE>): <FEE>
+    • Tier 3 (<RANGE>): <FEE>
+    • Maximum Royalty per Licence Year: <CAP, or "none">
+
+D. Class Waivers (Article 2a of the SDL)
+The Licensor grants the following Waivers to every Licensee meeting the stated criteria:
+    • <CLASS, e.g. projects distributed under an OSI-approved open-source licence>: <WAIVER, e.g. 100% of Royalty>
+    • <CLASS, e.g. public research institutions and educational institutions>: <WAIVER>
+    • <CLASS, e.g. registered humanitarian organisations>: <WAIVER>
+
+E. Notifications and contact
+Notifications under Article 2b of the SDL, self-certifications and audit correspondence shall be sent to: <CONTACT DETAILS>
+
+F. Effective date
+This version of Appendix 1 is effective from <DATE>. Amendments that increase Royalties or lower the Threshold apply to existing Licensees in accordance with Article 2c.2 of the SDL.

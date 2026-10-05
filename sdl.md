@@ -1,5 +1,5 @@
 # Sustainable Development Licence
-Version 1.1
+Version 1.2
 
 
 This Sustainable Development Licence ( ‘SDL’) applies to the Work (as defined below) which is provided under the terms of this licence. Any use of the Work, other than as authorised under this licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work).
@@ -34,11 +34,21 @@ In this Licence, the following terms have the following meaning:
 
 - ‘Distribution’ or ‘Communication’: any act of selling, giving, lending, renting, distributing, communicating, transmitting, or otherwise making available, online or offline, copies of the Work or providing access to its essential functionalities at the disposal of any other natural or legal person.
 
-- ‘Commercial use’: any activity in which you use the Work as part of your product or a service which is intended for or directed towards commercial advantage or monetary compensation.
+- ‘Economic Activity’: offering goods or services on a market, or using the Work in support of such an offering, irrespective of the legal form, tax status, ownership or declared purpose of the Licensee. Registration as a non-profit organisation, association, foundation or public body does not in itself exclude Economic Activity.
 
-- ‘Non-Commercial use’: any activity in which you use the Work as part of your product or a service which is not intended for or directed towards commercial advantage or monetary compensation.
+- ‘Affiliate’: any natural or legal person that directly or indirectly controls, is controlled by, or is under common control with the Licensee, where ‘control’ means holding more than fifty percent (50%) of the voting rights or capital, or otherwise having the power to direct the management or policies of that person, whether by ownership, contract, statutes or otherwise.
 
-- ‘Royalty’: an amount paid by a the Licensee to the Licensor for the use of the Work for Commercial use.
+- ‘Threshold’: the objective limits set out in Appendix 1 (such as the annual gross revenue of the Licensee and its Affiliates, the number of production deployments, or the number of end-users served with the Work), measured per Licence Year. Where Appendix 1 sets no Threshold, the Threshold is an aggregate annual gross revenue of the Licensee and its Affiliates of EUR 500,000.
+
+- ‘Licence Year’: each consecutive period of twelve (12) months starting from the date on which the Licensee first exercises any right granted under this Licence.
+
+- ‘Waiver’: a written declaration by the Licensor reducing or waiving the Royalty for a Licensee or for a class of Licensees, in accordance with Article 2a.
+
+- ‘Commercial use’: any use of the Work in an Economic Activity by a Licensee whose use exceeds the Threshold.
+
+- ‘Non-Commercial use’: any use of the Work that is not Commercial use, including (a) use by a Licensee whose use does not exceed the Threshold, (b) personal, educational, research or standardisation use that does not support an Economic Activity, and (c) use for which the Licensor has granted a Waiver.
+
+- ‘Royalty’: an amount paid by the Licensee to the Licensor for the use of the Work for Commercial use.
 
 ## 2. Scope of the rights granted by the Licence
 The Licensor hereby grants You a worldwide, non-exclusive, sublicensable licence to do the following, for the duration of copyright vested in the Original Work:
@@ -53,11 +63,42 @@ The Licensor hereby grants You a worldwide, non-exclusive, sublicensable licence
 
 Those rights can be exercised on any media, supports and formats, whether now known or later invented, as far as the applicable law permits so.
 
-To use the Work for Commercial use, the Licensee must pay Royalty to the Licensor, its affiliated entities, or authorized resellers; or must refrain from using, distribute, lend and rent or sublicense rights of the Work for Commercial use. In such case, Appendix 1 shall apply.
+To use the Work for Commercial use, the Licensee must pay Royalty to the Licensor, its affiliated entities, or authorized resellers; or must refrain from using, distributing, lending and renting or sublicensing rights of the Work for Commercial use. In such case, Appendix 1 shall apply. Whether a use is Commercial use is determined exclusively by the objective criteria of Article 1 and Appendix 1, subject to Articles 2a, 2b and 2c.
 
 In the countries where moral rights apply, the Licensor waives his right to exercise his moral right to the extent allowed by law in order to make effective the licence of the economic rights here above listed.
 
 The Licensor grants to the Licensee, non-exclusive usage rights to any patents held by the Licensor, to the extent necessary to make use of the rights granted on the Work under this Licence.
+
+## 2a. Waiver
+2a.1 The Licensor may, at its sole discretion, grant a Waiver to any Licensee or to any class of Licensees defined by objective criteria (for example: open-source projects, public research institutions, humanitarian organisations, or Licensees below a given revenue).
+
+2a.2 A Waiver may only reduce or remove obligations of the Licensee. It may not impose obligations, restrict rights granted under this Licence, or reclassify a Non-Commercial use as Commercial use.
+
+2a.3 A Waiver granted to a class of Licensees shall be published and made available on the same conditions to every Licensee meeting the criteria of that class. The Licensor shall not refuse, withdraw or condition a Waiver on the ground that the Licensee competes, or intends to compete, with the Licensor or with any other licensee of the Licensor.
+
+2a.4 A Waiver may be limited in time. Withdrawal of a Waiver takes effect only at the end of the Licence Year following written notice to the Licensee, and never retroactively.
+
+## 2b. Change of status
+2b.1 The Licensee shall assess at the end of each Licence Year whether its use of the Work exceeded the Threshold in that Licence Year. Where the Threshold was exceeded, the Licensee shall notify the Licensor within sixty (60) days of the end of that Licence Year.
+
+2b.2 Royalty becomes due from the first day of the Licence Year following the Licence Year in which the Threshold was exceeded. No Royalty is due for any Licence Year in which the Licensee in good faith qualified for Non-Commercial use.
+
+2b.3 A Licensee who fails to notify the Licensor under Article 2b.1 owes Royalty from the date on which it would have become due under Article 2b.2, together with statutory interest. Such failure constitutes a breach that may be cured in accordance with Article 12.
+
+2b.4 The Licensor may, not more than once per Licence Year and on thirty (30) days' written notice, require the Licensee to provide a written self-certification of its Threshold status, or an attestation from an independent auditor bound by confidentiality. The Licensor bears the cost of any such audit, unless the audit reveals that the Threshold was exceeded and not notified, in which case the Licensee bears the cost.
+
+2b.5 Where the use of the Work by a Licensee falls back below the Threshold, Non-Commercial status is restored from the first day of the following Licence Year.
+
+## 2c. Protection of the Licensee
+2c.1 Royalties, Thresholds and the criteria for any class Waiver shall be published in Appendix 1 and applied on uniform and non-discriminatory terms to all Licensees in a comparable situation.
+
+2c.2 Amendments to Appendix 1 that increase Royalties or lower the Threshold apply to an existing Licensee only from the second Licence Year following their publication, and never to use of the Work that has already occurred.
+
+2c.3 A use of the Work is presumed to be Non-Commercial use unless the Licensor establishes that it is Commercial use. Any dispute concerning the classification of a use, the Threshold or the amount of Royalty shall first be submitted to an independent expert jointly appointed by the parties, or, failing agreement on the expert within thirty (30) days, to mediation. The determination of the expert on questions of fact (in particular the revenue, deployments or end-users of the Licensee and its Affiliates, and whether the Threshold was exceeded) is binding on the parties unless manifestly incorrect; questions of law remain subject to Article 14. The costs of the expert or mediator are shared equally unless the expert or mediator decides otherwise. During such dispute and for sixty (60) days after its resolution, the Licence shall not terminate under Article 12 for that cause.
+
+2c.4 The Licensor shall not exercise its rights concerning classification, audit or Royalty for the purpose of restricting the Licensee's participation in any market, and shall not require, as a condition of any Waiver or Royalty term, that the Licensee refrain from competing with the Licensor or with any other licensee of the Licensor.
+
+2c.5 Where the Licensor breaches Article 2a.3, 2c.1, 2c.2 or 2c.4 towards a Licensee and does not cure the breach within sixty (60) days of written notice, the Licensee affected by the breach is granted, by way of remedy and without prejudice to any claim for damages, a perpetual, irrevocable, worldwide, non-exclusive, royalty-free licence to use, reproduce, modify, distribute and sublicense the Work for Commercial use, subject to all other terms and conditions of this Licence (including the obligations under Article 5). Such a breach by the Licensor does not terminate the Licence under Article 12.
 
 ## 3. Communication of the Source Code
 The Licensor may provide the Work either in its Source Code form, or as Executable Code. If the Work is provided as Executable Code, the Licensor provides in addition a machine-readable copy of the Source Code of the Work along with each copy of the Work that the Licensor distributes or indicates, in a notice following the copyright notice attached to the Work, a repository where the Source Code is easily and freely accessible for as long as the Licensor continues to distribute or communicate the Work for non-commercial usage.
@@ -110,7 +151,7 @@ Similarly, you irrevocably accept this Licence and all of its terms and conditio
 In case of any Distribution or Communication of the Work by means of electronic communication by You (for example, by offering to download the Work from a remote location) the distribution channel or media (for example, a website) must at least provide to the public the information requested by the applicable law regarding the Licensor, the Licence and the way it may be accessible, concluded, stored and reproduced by the Licensee.
 
 ## 12. Termination of the Licence
-The Licence and the rights granted hereunder will immediately terminate automatically upon any breach by either the Licensor or the Licensee of the terms of the Licence.
+The Licence and the rights granted hereunder will terminate automatically upon any breach by either the Licensor or the Licensee of the terms of the Licence which is not cured within sixty (60) days of written notice of the breach by the other party. Breaches of the obligations set out in Article 5 (Attribution right, Copyleft clause and Provision of Source Code) that are incapable of cure terminate the Licence immediately.
 
 Such a termination will not terminate the licences of any person who has received the Work from the Licensee under the Licence, provided such persons remain in full compliance with the Licence.
 Claims for damages related to the breaches are reserved.
